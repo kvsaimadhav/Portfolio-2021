@@ -1,5 +1,7 @@
 body { 
     margin:0;
+    background-image: url("images/project2.jpg");
+    background-color: #cccccc;
 }
 .image {
     width:100vw; 
